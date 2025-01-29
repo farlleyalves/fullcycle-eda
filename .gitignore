@@ -1,0 +1,5 @@
+.docker
+.m2
+.DS_STORE
+/go/pkg/mod
+/go/pkg/sumdb
